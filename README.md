@@ -8,6 +8,7 @@
 - 🌐 Strona: [stokowski.eu](https://stokowski.eu/) · [llms.txt](https://stokowski.eu/llms.txt)
 - 🆔 ORCID: [0009-0008-0328-9002](https://orcid.org/0009-0008-0328-9002)
 - 💼 LinkedIn: [marek-stokowski](https://www.linkedin.com/in/marek-stokowski/)
+- ▶️ YouTube: [@StokowskiMarek](https://www.youtube.com/@StokowskiMarek)
 - 📚 Zenodo: [Migracja strony a SEO – WordCamp Łódź 2019](https://doi.org/10.5281/zenodo.22894493) · [Shit in, shit out – migawka AI 2026](https://doi.org/10.5281/zenodo.22894650)
 
 ## Narzędzia / Tools
